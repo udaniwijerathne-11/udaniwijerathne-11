@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udani Wijerathne</h1>
 <h3 align="center">Undergraduate at Open University Of Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaniwijerathne-11&label=Profile%20views&color=0e75b6&style=flat" alt="udaniwijerathne-11" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=udaniwijerathne-11&label=Profile%20views&color=0e75b6&style=flat" alt="udaniwijerathne-11" /> </p>
 
 - 🌱 I’m currently learning **User Interface Designing**
 
