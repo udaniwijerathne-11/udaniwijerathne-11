@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udaniwijerathne-11&label=Profile%20views&color=0e75b6&style=flat" alt="udaniwijerathne-11" /> </p>
 
-- 🌱 I’m currently learning **User Interface Designing**
+- 🌱 I’m currently learning **User Interface Designing and Web Development**
 
 - 📫 How to reach me **udaniwijerathne3@gmail.com**
 
